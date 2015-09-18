@@ -1,0 +1,6 @@
+los TDA(tipos de datos abstractos) son un tipo de dato no definido por el lenguaje; no es de tipo int,string,double ni ninguno que el sistema 
+tenga defindo. Mas bien, un TDA es un tipo de dato propio del programador pues ya que es quien decide la estructura y las propiedades que tendra.
+Si el programador decide escribir un tipo de dato persona podria asiganarle propiedade como: nombre,edad y sexo.Si nos damos cuenta 
+nuestro TDA podra contener internamente datos de tipo string,int,float, o los qe se requieran pero staran englobados en nuestro tipo de dato "persona"
+Asi se nos facailitara la manipulacion de la informacion almacenada en nuestro nuevo tipo de dato ya que podremos manipular de manera que pdremos 
+agregar,modificar,eliminar y buscar registros almacenados temporalmente en nuestro TDA
